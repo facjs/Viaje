@@ -3,7 +3,7 @@
 ### Características
 
 -   Sitio web responsivo de viajes.
--   HTML CSS & Javascript.
+-   HTML CSS, SCSS & Javascript.
 -   Smooth scrolling en cada sección.
 -   Animaciones al scrollear.
 -   Modo oscuro.
