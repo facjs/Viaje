@@ -3,7 +3,7 @@
 ### Sitio web responsive
 
 -   Sitio web responsivo.
--   HTML, SASS, CSS & Javascript.
+-   HTML, SCSS, CSS & Javascript.
 -   Smooth scrolling
 -   Animaciones.
 -   Modo oscuro.
