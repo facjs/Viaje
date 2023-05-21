@@ -1,6 +1,6 @@
 # Sitio Web Responsivo de Viajes
 
-### Sitio Web Responsivo de Viajes
+### Sitio web responsive
 
 -   Sitio web responsivo.
 -   HTML CSS & Javascript.
