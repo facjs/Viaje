@@ -2,9 +2,11 @@
 
 ### Sitio Web Responsivo de Viajes
 
--   Sitio web responsivo de viajes.
+-   Sitio web responsivo.
 -   HTML CSS & Javascript.
--   Smooth scrolling en cada sección.
--   Animaciones al scrollear.
+-   Smooth scrolling
+-   Animaciones.
 -   Modo oscuro.
 -   Mobile First.
+
+### Live demo (https://jolly-melomakarona-344f64.netlify.app/)
